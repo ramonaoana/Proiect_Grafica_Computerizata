@@ -13,9 +13,11 @@ As IDE (or code editor) I use Visual Studio Code
 ## Project Structure
 The project structure is as follows:
 1. index.html: The main HTML file that includes the necessary scripts and provides a container for the 3D scene.
-2. src/: The directory that contains the JavaScript code for the project.
-3. app.js: The main JavaScript file that initializes the scene, sets up the camera, renderer, lighting, and loads the 3D model and textures.
+2. app.js: The main JavaScript file that initializes the scene, sets up the camera, renderer, lighting, and loads the 3D model and textures.
 and the other files.
+3. style.css
++ resources
+
 
 ## Features
 The project includes the following features:
