@@ -1,4 +1,5 @@
 # Proiect_Grafica_Computerizata
+STUDENT: OANĂ ANDREEA RAMONA, GRUPA 1115
 
 This project is a 3D airplane simulation built using the Three.js library. It includes a scene with a model of a Boeing airplane, lighting, textures, and interactive features.
 
